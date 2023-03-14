@@ -79,6 +79,27 @@
 </div>
  
  
-<br><br>
+<br>
+
+<h4>المثال الخامس:</h4>
+
+<p>
+
+قام المدير باسناد مهمة ما الى 2 موظفين فقام موظف بالعمل عليها دون اشراك الموظف الآخر وعندما ساله المدير
+.قال زميلي هو المخطئ لأنه لم يسألني عن المهمة
+ 
+المبادئ التى تم انتهاكها : <br>
+<br>
+<b>الشفافيه</b> : حيث انه كان يجب على الموظف مشاركة حال المهمة التى يعمل عليها ليكتسب احترام وثقه مديره وزملاءه
+ 
+ <br><b>الايجابية</b> : حيث ان الموظف لم يعترف بخطئه و قال أن زميله هو المخطئ
+ 
+</p>
+ 
+ <br>
+ 
+ 
+
+<br>
 ![Visit us on GitHub](https://raw.githubusercontent.com/amateursanonymous/amateursanonymous.github.io/main/assets/GitHub-logo-100.png)<br>
 [Visit us on GitHub](https://github.com/amateursanonymous/amateursanonymous.github.io)
